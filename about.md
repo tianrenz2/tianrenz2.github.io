@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+My name is Tianren, I also go by Silver, I am a  Computer Engineering junior student in UC Irvine. Programming and music are the biggest two parts of my life (I also have my own band called One Thousand Pages).
 
 ### More Information
 
