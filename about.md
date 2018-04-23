@@ -18,6 +18,11 @@ Part-time Job: Student Assistant at UCI Information of Technology Department  [J
 
 Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December 2017]
 
+![alt text](https://github.com/tianrenz2/tianrenz2.github.io/blob/master/images/qiadao.jpg) <br/>
+
+Intern: Android Developer  [February 2015 - June 2015]
+
+
 
 ### Contact me
 
