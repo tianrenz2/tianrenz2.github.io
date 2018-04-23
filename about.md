@@ -25,7 +25,7 @@ Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December
 
 ![alt text](https://github.com/tianrenz2/tianrenz2.github.io/blob/master/images/qiadao.jpg) <br/>
 
-Intern: Android Developer  [February 2015 - June 2015]
+Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 
 
 
