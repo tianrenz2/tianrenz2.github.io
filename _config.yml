@@ -6,7 +6,7 @@
 name: Tianren(Silver) Zhang
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: UCI - Computer Engineering - Undergrad - '19
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: http://i68.tinypic.com/1q5tte.jpg
@@ -19,11 +19,11 @@ avatar: http://i68.tinypic.com/1q5tte.jpg
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: https://www.facebook.com/profile.php?id=100009961488351
   flickr:
-  github: barryclark/jekyll-now
+  github: tianrenz2
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/tianrenz/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: jekyllrb
