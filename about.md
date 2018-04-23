@@ -24,7 +24,7 @@ Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December
 <br/>
 
 
-<img src="/images/qiadao.jpeg">  <br/>
+<img src="/images/qiadao.jpg">  <br/>
 Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 
 
