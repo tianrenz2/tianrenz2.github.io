@@ -14,6 +14,22 @@ A 3D mobile game that can be runing on both Adroid and IOS.
 Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro) to watch the trailer <br/>
 Click [&lt;here&gt;](https://play.google.com/store/apps/details?id=com.gameplus.rushingflash) to get try in on Android 
 
+
+# **3. CPR Sidekick**   <br/>
+
+This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
+
+Noticeable feature: The voice recognizer is integrated, users just need to answer questions vocally to get the the next instruction, it helps user focus on doing CPR operation.<br/>
+
+<img src="/images/cprsk.jpeg">  <br/>
+
+<br/>
+
+Source code: https://github.com/tianrenz2/CPR-Sidekick
+
+<br/>
+
+
 # __2. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
 
@@ -32,18 +48,5 @@ Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
 
 
 
-# **3. CPR Sidekick**   <br/>
-
-This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
-
-Noticeable feature: The voice recognizer is integrated, users just need to answer questions vocally to get the the next instruction, it helps user focus on doing CPR operation.<br/>
-
-<img src="/images/cprsk.jpeg">  <br/>
-
-<br/>
-
-Source code: https://github.com/tianrenz2/CPR-Sidekick
-
-<br/>
 
   
