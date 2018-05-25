@@ -15,7 +15,24 @@ Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro) to watch the t
 Click [&lt;here&gt;](https://play.google.com/store/apps/details?id=com.gameplus.rushingflash) to get try in on Android 
 
 
-# **3. CPR Sidekick**   <br/>
+
+# __2. NoteMoment__   <br/>
+It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
+
+1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;<br/>
+2. Users can post their notes get price them, just like selling their notes.
+<br/>
+
+<img height = "200" src="/images/applogo1.png"> 
+<p float="left"><img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"> <img height = "300" src="/images/scr3.jpeg"> <p/>  <br/>
+<br/>
+Platform: Website, Android, IOS
+Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
+Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
+<br/>
+
+
+# **3. CPR Sidekick ** 
 
 This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
 
@@ -28,25 +45,6 @@ Noticeable feature: The voice recognizer is integrated, users just need to answe
 Source code: https://github.com/tianrenz2/CPR-Sidekick
 
 <br/>
-
-
-# __2. NoteMoment__   <br/>
-It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
-
-1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;<br/>
-2. Users can post their notes get price them, just like selling their notes.
-<br/>
-
-<img height = "200" src="/images/applogo1.png"> 
-<p float="left"><img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"> <img height = "300" src="/images/scr3.jpeg"> <p/>  <br/>
-
-<br/>
-
-Platform: Website, Android, IOS
-Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
-Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
-
-
 
 
   
