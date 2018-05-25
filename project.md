@@ -12,7 +12,7 @@ permalink: /project/
 
 A 3D mobile game that can be runing on both Adroid and IOS.
 Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro)here to watch the trailer <br/>
-[&lt;Android version &gt;](https://www.youtube.com/watch?v=d8o6gFppqro)
+[&lt;Android version &gt;](https://www.youtube.com/watch?v=d8o6gFppqro) <br/>
 
 # __2. NoteMoment__</br>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
@@ -21,8 +21,8 @@ It is a note sharing/trading platform on which students basically can get access
 2. Users can post their notes get price them, just like selling their notes.
 
 Platform: Website, Android, IOS
-Android Source code: https://github.com/tianrenz2/Notemoment-Android
-Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
+Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
+Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode <br/>
 
 
 
