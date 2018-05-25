@@ -11,7 +11,7 @@ permalink: /project/
 <br/>
 
 A 3D mobile game that can be runing on both Adroid and IOS.
-Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro)here to watch the trailer <br/>
+Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro)to watch the trailer <br/>
 
 # __2. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
