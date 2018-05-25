@@ -19,6 +19,12 @@ It is a note sharing/trading platform on which students basically can get access
 
 1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;<br/>
 2. Users can post their notes get price them, just like selling their notes.
+<br/>
+
+<img height = "200" src="/images/applogo1.png"> 
+<p float="left"><img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"> <img height = "300" src="/images/scr3.jpeg"> <p/>  <br/>
+
+<br/>
 
 Platform: Website, Android, IOS
 Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
