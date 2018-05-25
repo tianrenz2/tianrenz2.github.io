@@ -14,7 +14,7 @@ A 3D mobile game that can be runing on both Adroid and IOS.
 Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro)here to watch the trailer <br/>
 [&lt;Android version &gt;](https://www.youtube.com/watch?v=d8o6gFppqro) <br/>
 
-# __2. NoteMoment__</br>
+# __2. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
 
 1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;</br>
