@@ -17,7 +17,7 @@ Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro)here to watch t
 # __2. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
 
-1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;</br>
+1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;<br/>
 2. Users can post their notes get price them, just like selling their notes.
 
 Platform: Website, Android, IOS
