@@ -28,11 +28,11 @@ It is a note sharing/trading platform on which students basically can get access
 
 Platform: Website, Android, IOS
 Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
-Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode <br/>
+Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
 
 
 
-# __2. NoteMoment__   <br/>
+# __3. CPR Sidekick__   <br/>
 
 This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
 
