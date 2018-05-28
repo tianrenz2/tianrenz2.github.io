@@ -45,17 +45,6 @@ Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
 
 ## __2. NoteMoment__   <br/>
 
-This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
-
-Noticeable feature: The voice recognizer is integrated, users just need to answer questions vocally to get the the next instruction, it helps user focus on doing CPR operation.<br/>
-
-<img src="/images/cprsk.jpeg">  <br/>
-
-<br/>
-
-Source code: https://github.com/tianrenz2/CPR-Sidekick
-
-<br/>
 
 
   
