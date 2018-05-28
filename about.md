@@ -6,8 +6,13 @@ permalink: /about/
 
 My name is Tianren, I also go by Silver, I am a  Computer Engineering junior student in UC Irvine. Programming and music are the biggest two parts of my life.
 
-## Experience
+### __Interests:__
+  &nbsp;&nbsp;Internet of Things + Machine Learning
 
+<br/>
+
+
+## Experience
 
 <img src="/images/oit-wordmark.png">  <br/>
 
