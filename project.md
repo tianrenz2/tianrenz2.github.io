@@ -4,7 +4,7 @@ title: Projects
 permalink: /project/
 ---
 
-# __1. BIPI BALL 3D Mobile Game__
+## __1. BIPI BALL 3D Mobile Game__
 
 <img src="/images/bipiball.jpeg">  <br/>
 
@@ -16,7 +16,7 @@ Click [&lt;here&gt;](https://play.google.com/store/apps/details?id=com.gameplus.
 
 
 
-# __2. NoteMoment__   <br/>
+## __2. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
 
 1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;<br/>
@@ -32,7 +32,7 @@ Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
 <br/>
 
 
-# __3. CPR Sidekick__ 
+## __3. CPR Sidekick__ 
 
 This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
 
