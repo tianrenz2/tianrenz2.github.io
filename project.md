@@ -32,7 +32,6 @@ It is a note sharing/trading platform on which students basically can get access
 <p float="left"> 
   <img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"><img height = "300"  src="/images/scr3.jpeg"> 
  <br/>
-<p/> 
 <br/>
 <br/>
 
