@@ -26,12 +26,17 @@ Click [&lt;here&gt;](https://play.google.com/store/apps/details?id=com.gameplus.
 
 ## __2. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
+1. Users can valuntarily share their notes for free, but the viewers are also free to donate bounty to these uploaders;<br/>
+2. Users can post their notes get price them, just like selling their notes.
+<br/>
+<img height = "200" src="/images/applogo1.png"> 
+<p float="left"><img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"> <img height = "300" src="/images/scr3.jpeg"> <p/>  <br/>
+<br/>
 
 
 
 
-
-## __2. NoteMoment__   <br/>
+## __2. CPR Sidekick__   <br/>
 
 
 
