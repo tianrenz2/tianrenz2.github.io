@@ -38,9 +38,12 @@ Platform: Website, Android, IOS
 Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
 Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
 <br/>
+<br/>
+<br/>
 
 
-##  __3. CPR Sidekick__ 
+
+## __2. NoteMoment__   <br/>
 
 This app was made for UCI's Medapp Jam (A app competition), it is able to prvide a CPR tutorial for people who do not know much about CPR but encounter some urgent situations.<br/>
 
