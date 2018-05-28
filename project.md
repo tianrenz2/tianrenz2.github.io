@@ -11,11 +11,11 @@ permalink: /project/
 <br/>
 
 Product Description:</br>
-This is 3D mobile game that can be runing on both Adroid and IOS.</br>
+This is 3D mobile game that can be runing on both Adroid and IOS.<br/>
 By rotating devices, players are able to move the ball to the destination in order to win games.
-</br>
-</br>
-In this game, there are over 30 stages for players to get through, each stage has elaborately designed sceneries and interesting mechanisms. </br>
+<br/>
+<br/>
+In this game, there are over 30 stages for players to get through, each stage has elaborately designed sceneries and interesting mechanisms. <br/>
 
 There are some evil AI enemies who will try to hold you back, such as cannons which can track your movement and shoot you, magnetic balls which distract the path you are going along with, so, watch out! <br/> 
 
