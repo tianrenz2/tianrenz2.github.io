@@ -30,7 +30,7 @@ It is a note sharing/trading platform on which students basically can get access
 2. Users can post their notes get price them, just like selling their notes.
 <img height = "200" src="/images/applogo1.png"> 
 <p float="left"> 
-  <img height = "300" align="left"  src="/images/scr1.jpeg"> <img height = "300" align="left"  src="/images/scr2.jpeg"><img height = "300" align="left"  src="/images/scr3.jpeg"> 
+  <img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"><img height = "300"  src="/images/scr3.jpeg"> 
  <br/>
 <p/> 
 <br/>
