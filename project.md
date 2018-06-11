@@ -36,8 +36,9 @@ It is a note sharing/trading platform on which students basically can get access
 
 <br/>
 Platform: Website, Android, IOS
-Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
-Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
+Android Source code: <a href = "https://github.com/tianrenz2/Notemoment-Android"> https://github.com/tianrenz2/Notemoment-Android<a/>  <br/>
+Server and Web Source code: <a href = "https://github.com/tianrenz2/Notemoment--servercode">  https://github.com/tianrenz2/Notemoment--servercode <a/>  <br/>
+ 
  <br/>
 <br/>
 <br/>
