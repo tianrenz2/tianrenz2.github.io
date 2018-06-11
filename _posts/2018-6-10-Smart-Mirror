@@ -23,3 +23,15 @@ In the security mode, the mirror keeps detecting the change of  the environment 
 In the active mode, the mirror could show the time, date and current room temperature. 
 
 There is no physical button on this mirror, an user is able to switch between these two modes by voice control.
+
+
+Things we used:
+1 Raspberry Pi 3, 1 Sunfounder USB microphone, 1 RobotDyn Photosensitive Light Sensor (LDR), 1 Elegoo Ultrasonic Sensor, 1 two-way mirror, 1 Dell monitor, bunch of jump wires (primarily female-male wire), wood frames.
+
+<img height = "200" src="/images/smirror/pic5.jpg">  <br/>
+
+
+Process:
+1. We have to measure the sizes the two-way mirror in order to cut the wood frames, here, a big shout-out to my partner’s brother, who did a really brilliant job on cutting the woods and putting them together. Our monitor’s has the pretty much the same height as the two-way mirror and horizontally smaller than it so that we have space to fit our raspberry pi and circuit.
+
+2. Then we move onto the circuit part, based on our objectives, we put all the electronic elements together on one bread board and have them correctly interact with our Raspberry pi.
