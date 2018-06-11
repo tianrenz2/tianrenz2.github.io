@@ -91,10 +91,10 @@ The picture above is the software structure is very clear, each source of inform
 
 <p>
 4. Another function module we have is an automatic email-sending funtion, in security mode, when the ultrasonic or light sensors have detected something 
-from the environment, the program would send an alarm email to the owner.
+from the environment, the program would send an alarm email to the owner.<br/>
 
 Here is a piece of code to implement email sending with python's email library, you also need to input username and password of your own email account and the email will be sent from that account:
-	
+<br/>
 <pre>
   <code>
 from email.mime.text import MIMEText
@@ -127,8 +127,8 @@ def sendemail():
 5. One of the problems might be how to have several processes going on in the python since tkinter is already a loop that is running
 all the time, we cannot have another loop at the same time to keep checking sensor's data and voice around. 
 <br/>
-	
-<br/>
+<p/>	
+<p>
 Here, tkinter has a function:
 <pre>
   <code>
@@ -139,8 +139,9 @@ Where the second parameter "function" you want to keep executing and the first p
 With this line of code, I can say my function paramter refers to the function that is checking the GPIO ports of sensors constantly
 so that we can keep updating the data from sensors.
 <br/>
-	
-<br/>
+<p/>
+
+<p>
 But for voice listening, there is a small difference, we used multi-threading using python's threading library.
 <pre>
   <code>	
