@@ -13,6 +13,13 @@ images:
 		body {
 		    font: normal 20px Verdana, Arial, sans-serif;
 		}
+		
+		pre code {
+		  background-color: #eee;
+		  border: 1px solid #999;
+		  display: block;
+		  padding: 20px;
+		}
 	</style>
 
 </head>
@@ -81,8 +88,43 @@ The picture above is the software structure is very clear, each source of inform
 	you can find online, if you are using the same things as we did, the ADC converter libarary is provided by Sunfounder.(See our source code for more information)
 	<p/>
 	<br/>
+
 <p>
-4. After every part was working correctly, we start putting all the parts together, we stick our monitor and circuit onto the back of 
+4. Another function module we have is an automatic email-sending funtion, in security mode, when the ultrasonic or light sensors have detected something 
+from the environment, the program would send an alarm email to the owner.
+
+Here is a piece of code to implement email sending with python's email library, you also need to input username and password of your own email account and the email will be sent from that account:
+	
+<pre>
+  <code>
+from email.mime.text import MIMEText
+import smtplib
+
+def sendemail():
+    FROM = 'fromemail'
+    SENTTo = 'toemail@gmail.com'
+    SUBJECT = "Alarm"
+    TEXT = "INTRUDER INTRUDER!"
+    msg = MIMEText('body')
+    msg['Subject'] = 'subject'
+    msg['From'] = "..."
+    msg['Reply-to'] = "..."
+    msg['To'] = "..."
+    mail = smtplib.SMTP("smtp.gmail.com", 587)
+    mail.ehlo()
+    mail.starttls()
+    mail.ehlo()
+    mail.login("email", "password")
+    mail.sendmail('affinemirror@gmail.com', SENTTo, TEXT)
+    print("Sent Succesffuly")
+    mail.close()
+  </code>
+</pre>	
+	
+<p/>
+
+<p>
+5. After every part was working correctly, we start putting all the parts together, we stick our monitor and circuit onto the back of 
 the mirror. 
 <p/>
 
@@ -91,7 +133,7 @@ the mirror.
 
 <br/>
 <p>
-	5. Yes, now a basic smart mirror has been made! Click <a href="https://github.com/tianrenz2/RPmirror"> here</a> to get the source code of our software system.
+6. Yes, now a basic smart mirror has been made! Click <a href="https://github.com/tianrenz2/RPmirror"> here</a> to get the source code of our software system.
 </p>
 
 <h2>Closing Thoughts:<h2/>
