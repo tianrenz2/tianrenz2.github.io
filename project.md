@@ -31,9 +31,9 @@ It is a note sharing/trading platform on which students basically can get access
 
 
 <img height = "200" src="/images/applogo1.png"> 
-<p float="left"> 
+<ul> 
   <img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"><img height = "300"  src="/images/scr3.jpeg"> 
-<p/>
+<ul/>
  <br/>
 <br/>
 <br/>
