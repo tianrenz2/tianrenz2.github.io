@@ -127,6 +127,8 @@ def sendemail():
 5. One of the problems might be how to have several processes going on in the python since tkinter is already a loop that is running
 all the time, we cannot have another loop at the same time to keep checking sensor's data and voice around. 
 <br/>
+	
+<br/>
 Here, tkinter has a function:
 <pre>
   <code>
@@ -136,6 +138,8 @@ self.root.after(time, function)
 Where the second parameter "function" you want to keep executing and the first parameter "time" is the frequency the function is executed.
 With this line of code, I can say my function paramter refers to the function that is checking the GPIO ports of sensors constantly
 so that we can keep updating the data from sensors.
+<br/>
+	
 <br/>
 But for voice listening, there is a small difference, we used multi-threading using python's threading library.
 <pre>
