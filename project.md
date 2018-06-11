@@ -31,9 +31,13 @@ It is a note sharing/trading platform on which students basically can get access
 
 
 <img height = "200" src="/images/applogo1.png"> 
-<ul> 
-  <img height = "300" src="/images/scr1.jpeg"> <img height = "300" src="/images/scr2.jpeg"><img height = "300"  src="/images/scr3.jpeg"> 
-<ul/>
+
+  <img width = "200" src="/images/scr1.jpeg"> <img width = "200" src="/images/scr2.jpeg"><img width = "200" src="/images/scr3.jpeg"> 
+
+<br/>
+Platform: Website, Android, IOS
+Android Source code: https://github.com/tianrenz2/Notemoment-Android  <br/>
+Server and Web Source code: https://github.com/tianrenz2/Notemoment--servercode
  <br/>
 <br/>
 <br/>
