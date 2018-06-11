@@ -55,7 +55,9 @@ Noticeable feature: The voice recognizer is integrated, users just need to answe
 
 <br/>
 
-Source code: https://github.com/tianrenz2/CPR-Sidekick
+Source code:  <a href = "https://github.com/tianrenz2/CPR-Sidekick">  https://github.com/tianrenz2/CPR-Sidekick<a/>
+
+
 
 <br/>
 
