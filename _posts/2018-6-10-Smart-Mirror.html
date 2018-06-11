@@ -130,7 +130,7 @@ all the time, we cannot have another loop at the same time to keep checking sens
 Here, tkinter has a function:
 <pre>
   <code>
-	self.root.after(time, function)
+self.root.after(time, function)
   </code>
 </pre>
 Where the second parameter "function" you want to keep executing and the first parameter "time" is the frequency the function is executed.
@@ -140,9 +140,9 @@ so that we can keep updating the data from sensors.
 But for voice listening, there is a small difference, we used multi-threading using python's threading library.
 <pre>
   <code>	
-    def thr(self):
-        t1 = threading.Thread(target=self.listen, daemon=True)
-        t1.start()
+def thr(self):
+    t1 = threading.Thread(target=self.listen, daemon=True)
+    t1.start()
   </code>
 </pre>
 	
