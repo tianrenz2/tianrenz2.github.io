@@ -5,33 +5,64 @@ images:
   - url: /images/smirror/pic4.jpg
 ---
 
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style type="text/css">
+		body {
+		    font: normal 20px Verdana, Arial, sans-serif;
+		}
+	</style>
+
+</head>
+<body>
 
 
-## How we made a smart mirror using Raspberry Pi
+<h1>How we made a smart mirror using Raspberry Pi</h1> 
 
-<img src="/images/smirror/pic4.jpg">  <br/>
+<!-- <img src="/images/smirror/pic4.jpg">  <br/>
+ -->
+<img src="pic4.jpg">  <br/>
+
 
 <br/>
-With the huge growth of IoT devices, people’s daily necessities could be variously given more amazing functions. Today, I’m gonna show you guys the process of making a smart mirror with Raspberry Pi 3.
+<p>With the huge growth of IoT devices, people’s daily necessities could be variously given more amazing functions. Today, I’m gonna show you guys the process of making a smart mirror with Raspberry Pi 3.</p>
 <br/>
 
-Functions:<br/>
-There are two modes of this smart mirror, security mode and active mode:
+<h2>Functions:</h2>
+
+<p>There are two modes of this smart mirror, security mode and active mode:
 
 In the security mode, the mirror keeps detecting the change of  the environment with based on light and motions in front of it. If something is detected, the mirror will automatically send an email to the owner.
 
 In the active mode, the mirror could show the time, date and current room temperature. 
 
 There is no physical button on this mirror, an user is able to switch between these two modes by voice control.
+<p/>
 
 
-Things we used:
+<h2>Things we used:</h2>
+
 1 Raspberry Pi 3, 1 Sunfounder USB microphone, 1 RobotDyn Photosensitive Light Sensor (LDR), 1 Elegoo Ultrasonic Sensor, 1 two-way mirror, 1 Dell monitor, bunch of jump wires (primarily female-male wire), wood frames.
 
-<img height = "200" src="/images/smirror/pic5.jpg">  <br/>
 
+ <h2>Process:</h2>
+<p>
 
-Process:
 1. We have to measure the sizes the two-way mirror in order to cut the wood frames, here, a big shout-out to my partner’s brother, who did a really brilliant job on cutting the woods and putting them together. Our monitor’s has the pretty much the same height as the two-way mirror and horizontally smaller than it so that we have space to fit our raspberry pi and circuit.
+<p/>
+<!-- <img height = "200" src="/images/smirror/pic3.jpg">  <br/>
+ -->
+<ul border = "10px"><img height = "200" src="/images/smirror/pic3.jpg">   <img height = "200" src="/images/smirror/pic5.jpg">     <img height = "200" src="/images/smirror/pic9.jpg"> </ul>
 
+
+<p>
 2. Then we move onto the circuit part, based on our objectives, we put all the electronic elements together on one bread board and have them correctly interact with our Raspberry pi.
+<p/>
+<ul><img height = "300" src="/images/smirror/pic10.jpg"> <img height = "400" src="/images/smirror/schematic.jpg"> </ul>
+
+
+</body>
+</html>
+
