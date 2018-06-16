@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A self-made smart mirror
+title: Autoencoder (1)
 images:
   - url: /images/smirror/pic4.jpg
 ---
@@ -50,13 +50,13 @@ An interesting explanation professors in Georgia Tech:
 <p>
 With an Autoencoder, data can be efficiently classified, one great representation is clustering, such as the picture below, a huge amount of data can be distributed into different areas and therefore, form different categories, in this case, the AI does not need the label anymore.
 </p>
-<img src="images/autoencoder/cluster.jpeg">  <br/>
+<img src="/images/autoencoder/cluster.jpeg">  <br/>
 <a href="https://github.com/sdujump/adversarial-autoencoder-1">Image Source</a>
 
 <p>
 Speaking of classifying, in an Autoencoder, when the data should gets encoded is when the features of that image or object are filtered out. 
 </p>
-<img src="images/autoencoder/autocluster.jpeg">  <br/>
+<img src="/images/autoencoder/autocluster.jpeg">  <br/>
 <a href="https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf">Image Source</a>
 
 
@@ -70,7 +70,7 @@ Today, I tried to implement a convolutional autoencoder with tensorflow based on
 The autoencoder I am using is convolutional autoencoder, which incorporates Fully Connected Neural Network in Autoencoder, it encodes featuers of things primarily with convolution, maxpooling. 
 </p>
 
-<img src="images/autoencoder/convautoencoder.png"><br/>
+<img src="/images/autoencoder/convautoencoder.png"><br/>
 
 <h2>Tools:</h2>
 <p>
@@ -97,7 +97,7 @@ def showOrigDec(orig, dec, num=20, per_row = 5, num_row = 4):
 showOrigDec(X_train, None, num=40, per_row = 10, num_row = 4);
   </code>
 </pre>
-<img src="images/autoencoder/dataset.jpg"><br/>
+<img src="/images/autoencoder/dataset.jpg"><br/>
 
 <p>
 Then, we start constructing the autoencoder, below is a convolutional autoencoder with maxpooling, the encoded picture
@@ -161,7 +161,7 @@ plt.axis('off')
 </pre>
 
 The output:
-<img src="images/autoencoder/singleout.jpg">  <br/>
+<img src="/images/autoencoder/singleout.jpg">  <br/>
 
 <p>
 We can see it is very obvious that the reconstructed image for a single try doesn't really give us anything, if watching closely, we can somehow observe a rough shape of the object in the original image.
@@ -197,23 +197,23 @@ with tf.Session() as sess:
 <p>
 I chose some specific epoch to print out:
 </p>
-<img src="images/autoencoder/ep1.jpeg">  <br/>
-<img src="images/autoencoder/ep2.jpeg">  <br/>
-<img src="images/autoencoder/ep4.jpeg">  <br/>
-<img src="images/autoencoder/ep6.jpeg">  <br/>
-<img src="images/autoencoder/ep8.jpeg">  <br/>
-<img src="images/autoencoder/ep10.jpeg">  <br/>
+<img src="/images/autoencoder/ep1.jpeg">  <br/>
+<img src="/images/autoencoder/ep2.jpeg">  <br/>
+<img src="/images/autoencoder/ep4.jpeg">  <br/>
+<img src="/images/autoencoder/ep6.jpeg">  <br/>
+<img src="/images/autoencoder/ep8.jpeg">  <br/>
+<img src="/images/autoencoder/ep10.jpeg">  <br/>
 <br/>
 <p>
 When the learning rate is 0.01
 </p>
-<img src="images/autoencoder/lr01.jpeg">  <br/>
+<img src="/images/autoencoder/lr01.jpeg">  <br/>
 
 <br/>
 <p>
 When the learning rate is 0.0001
 </p>
-<img src="images/autoencoder/lr0001.jpeg">  <br/>
+<img src="/images/autoencoder/lr0001.jpeg">  <br/>
 
 Loss graph of these tree rates:
 	
