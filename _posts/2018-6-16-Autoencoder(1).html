@@ -107,7 +107,7 @@ Then, we start constructing the autoencoder, below is a convolutional autoencode
 would be size of 8*8,then it is decoded back to 32*32.
 </p>
 <pre>
-  <code>
+  <code class = "python">
 def autoencoder(inputs):
     img = lays.conv2d(inputs, 32, (6, 6), stride=2, padding='VALID',activation_fn=tf.nn.relu)
     img = lays.max_pool2d(img, (2, 2),1, padding = 'SAME')
@@ -129,7 +129,7 @@ def autoencoder(inputs):
 
 Firstly, we check the output and loss on a single image, the loss = (claculate the mean square error of differenc between)
 <pre>
-<code>
+<code class = "python">
 single_input = tf.placeholder(tf.float32, (None, 32, 32, 3)) 
 single_output = autoencoder(single_input)
 single_loss = tf.reduce_mean(tf.square(single_output - single_input)) 
@@ -146,7 +146,7 @@ with tf.Session() as sess:
 
 Let's print out the loss, reconstructed image and the original image:
 <pre>
-<code>
+<code class = "python">
 print(out.shape)
 print("loss", loss)
 
@@ -174,7 +174,7 @@ Next, let's start training...
 Here I used Adam as the optimization method and 0.001 as learning rate, each batch is size of 500.
 </p>
 <pre>
-<code>
+<code class = "python">
 with tf.Session() as sess:
   with tf.device("/gpu:0"):
     sess.run(init)
