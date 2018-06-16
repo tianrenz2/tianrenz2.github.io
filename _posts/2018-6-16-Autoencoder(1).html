@@ -1,0 +1,233 @@
+---
+layout: post
+title: A self-made smart mirror
+images:
+  - url: /images/smirror/pic4.jpg
+---
+
+<!DOCTYPE html>
+<html>
+
+<head>
+	<style type="text/css">
+		body {
+		    font: normal 20px Verdana, Arial, sans-serif;
+		}
+
+		pre code {
+		  background-color: #eee;
+		  border: 1px solid #999;
+		  display: block;
+		  padding: 20px;
+		}
+	</style>
+
+</head>
+<body>
+
+
+<h1>The Autoencoder (1)</h1> 
+
+<!-- <img src="/images/smirror/pic4.jpg">  <br/>
+ -->
+<img src="pic4.jpg">  <br/>
+
+
+<br/>
+<p>
+Autoencoder is a familiar term for most people who study machine learning, in short, it is a very important unsupervised learning algorithm. 
+</p>
+<p>What is unsupervised learning algorithm? </p>
+<p>
+In machine learning, there are three types of learning methods, supervised learning, unsupervised learning and Semi-supervised learning. Here, we just compare supervised learning and unsupervised learning. Imagine you are a student who is studying for grammar section of SAT, different from supervised learning, unsupervised learning is when you do not have answers for those questions and you have to figure out a way by yourself to find out what kind of grammar question you are doing, like some of them are testing the tense, some are testing the pronoun. With unsupervised learning, machine could just classify objects by comparing their differences and similarities. 
+<p/>
+
+<p>
+An interesting explanation professors in Georgia Tech:
+<a href="https://youtu.be/1qtfILYSDJY">Link</a>
+</p>
+
+<p>
+With an Autoencoder, data can be efficiently classified, one great representation is clustering, such as the picture below, a huge amount of data can be distributed into different areas and therefore, form different categories, in this case, the AI does not need the label anymore.
+</p>
+<img src="autoencoder/cluster.jpeg">  <br/>
+<a href="https://github.com/sdujump/adversarial-autoencoder-1">Image Source</a>
+
+<p>
+Speaking of classifying, in an Autoencoder, when the data should gets encoded is when the features of that image or object are filtered out. 
+</p>
+<img src="autoencoder/autocluster.jpeg">  <br/>
+<a href="https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf">Image Source</a>
+
+
+<p>
+Back to our autoencoder, what autoencoder does is just to compress a dataset into features which are are much more tiny than the original datasets, also it is able to get back to the reconstruct original dataset with those features.
+<p/>
+
+<p>
+Today, I tried to implement a convolutional autoencoder with tensorflow based on the world famous cifar 10 image dataset.
+
+The autoencoder I am using is convolutional autoencoder, which incorporates Fully Connected Neural Network in Autoencoder, it encodes featuers of things primarily with convolution, maxpooling. 
+</p>
+
+<img src="autoencoder/convautoencoder.png"><br/>
+
+<h2>Tools:</h2>
+<p>
+Tensorflow, Pillow, Numpy
+</p>
+
+<h2>Dataset:</h2>
+<p>
+Firstly, we start with showing the original images from cifar-10:
+<p/>
+<pre>
+  <code>
+def showOrigDec(orig, dec, num=20, per_row = 5, num_row = 4):
+    n = num
+    plt.figure(figsize=(20, 10))
+
+    for i in range(n):
+        # display original
+        ax = plt.subplot(num_row, per_row, i+1)
+        plt.imshow(orig[i].reshape(32, 32, 3))
+        ax.get_xaxis().set_visible(False)
+        ax.get_yaxis().set_visible(False)
+    plt.show()
+showOrigDec(X_train, None, num=40, per_row = 10, num_row = 4);
+  </code>
+</pre>
+<img src="autoencoder/dataset.jpg"><br/>
+
+<p>
+Then, we start constructing the autoencoder, below is a convolutional autoencoder with maxpooling, the encoded picture
+would be size of 8*8,then it is decoded back to 32*32.
+</p>
+<pre>
+  <code>
+def autoencoder(inputs):
+    img = lays.conv2d(inputs, 32, (6, 6), stride=2, padding='VALID',activation_fn=tf.nn.relu)
+    img = lays.max_pool2d(img, (2, 2),1, padding = 'SAME')
+    img = lays.conv2d(img, 32, (3, 3), stride=1, padding='VALID',activation_fn=tf.nn.relu)
+    img = lays.max_pool2d(img, (2, 2),1, padding = 'SAME')
+    img_encoded = lays.conv2d(img, 3,  (3, 3), stride=1, padding='VALID',activation_fn=tf.nn.relu)
+
+    encoded = lays.conv2d(img, 16,  (3, 3), stride=1, padding='VALID',activation_fn=tf.nn.relu)    
+    img = lays.conv2d_transpose(encoded, 16, (3, 3), stride=1, padding='VALID',activation_fn=tf.nn.relu)
+    img = lays.conv2d_transpose(img, 32, (3, 3), stride=1, padding='VALID',activation_fn=tf.nn.relu)
+    img = lays.conv2d_transpose(img, 64, (6, 6), stride=2, padding='VALID',activation_fn=tf.nn.relu)
+    img = lays.conv2d_transpose(img, 3, (3, 3), stride=1, padding='SAME')
+    img = lays.batch_norm(img,activation_fn=tf.nn.sigmoid)
+    print("decoded",img.shape)
+    
+    return img
+  </code>
+</pre>
+
+Firstly, we check the output and loss on a single image, the loss = (claculate the mean square error of differenc between)
+<pre>
+<code>
+single_input = tf.placeholder(tf.float32, (None, 32, 32, 3)) 
+single_output = autoencoder(single_input)
+single_loss = tf.reduce_mean(tf.square(single_output - single_input)) 
+
+single_image = X_train[3]
+single_image = single_image.reshape(1,32,32,3)
+with tf.Session() as sess:
+  sess.run(tf.global_variables_initializer())
+  with tf.device("/gpu:0"):
+    sess.run(tf.global_variables_initializer())
+    out,loss = sess.run([single_output,single_loss], {single_input: single_image})
+</code>
+</pre>
+
+Let's print out the loss, reconstructed image and the original image:
+<pre>
+<code>
+print(out.shape)
+print("loss", loss)
+
+plt.figure(figsize=(10,20))
+
+plt.subplot(1,3,1)
+plt.imshow(single_image.reshape(32, 32, 3))
+plt.axis('off')
+
+plt.subplot(1,3,2)
+plt.imshow(out.reshape(32, 32, 3))
+plt.axis('off')
+
+</code>
+</pre>
+
+The output:
+<img src="autoencoder/singleout.jpg">  <br/>
+
+<p>
+We can see it is very obvious that the reconstructed image for a single try doesn't really give us anything, if watching closely, we can somehow observe a rough shape of the object in the original image.
+
+Next, let's start training...
+
+Here I used Adam as the optimization method and 0.001 as learning rate, each batch is size of 500.
+</p>
+<pre>
+<code>
+with tf.Session() as sess:
+  with tf.device("/gpu:0"):
+    sess.run(init)
+    data = []
+    for ep in range(epoch_num):  # epochs loop
+        for batch_n in range(batch_per_ep):  # batches loop
+            batch_img = image_data[batch_n*batch_size:(batch_n+1)*batch_size]  # read a batch
+            output,c,_ = sess.run([ae_outputs,loss,train_op], feed_dict={ae_inputs: batch_img})
+            data.append(c)
+        if(ep+1)%2 == 0 or ep == 0:
+          print('Epoch: {} - cost= {:.5f}'.format((ep + 1), c))
+          showOrigDec(output,None, 15,15,1)
+          showOrigDec(batch_img,None, 15,15,1)
+          plt.axis('off')
+          plt.show()
+    plt.plot(data)
+    plt.xlabel('time')
+    plt.ylabel('loss')
+    plt.show()
+</code>
+</pre>
+
+<p>
+I chose some specific epoch to print out:
+</p>
+<img src="autoencoder/ep1.jpeg">  <br/>
+<img src="autoencoder/ep2.jpeg">  <br/>
+<img src="autoencoder/ep4.jpeg">  <br/>
+<img src="autoencoder/ep6.jpeg">  <br/>
+<img src="autoencoder/ep8.jpeg">  <br/>
+<img src="autoencoder/ep10.jpeg">  <br/>
+<br/>
+<p>
+When the learning rate is 0.01
+</p>
+<img src="autoencoder/lr01.jpeg">  <br/>
+
+<br/>
+<p>
+When the learning rate is 0.0001
+</p>
+<img src="autoencoder/lr0001.jpeg">  <br/>
+
+
+
+<h3>Suggested Reading:</h3>
+
+Papers:
+<a href="https://arxiv.org/pdf/1701.04949.pdf">A Deep Convolutional Auto-Encoder with Pooling - Unpooling Layers in Caffe</a>
+<a href="https://xifengguo.github.io/papers/ICONIP17-DCEC.pdf">Deep Clustering with Convolutional
+Autoencoders</a>
+<br/>
+Blog:
+<a href="https://pgaleone.eu/neural-networks/2016/11/24/convolutional-autoencoders/">Convolutional Autoencoders</a>
+
+
+</body>
+</html>
+
