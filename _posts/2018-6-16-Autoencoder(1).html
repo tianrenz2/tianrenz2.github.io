@@ -22,7 +22,9 @@ images:
 		  overflow-x:scroll;
 		}
 	</style>
-
+<link rel="stylesheet" href="/images/highlight/styles/default.css">
+<script src="/images/highlight/highlight.pack.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
 </head>
 <body>
 
@@ -83,7 +85,7 @@ Tensorflow, Pillow, Numpy
 Firstly, we start with showing the original images from cifar-10:
 <p/>
 <pre>
-  <code>
+  <code class = "python">
 def showOrigDec(orig, dec, num=20, per_row = 5, num_row = 4):
     n = num
     plt.figure(figsize=(20, 10))
