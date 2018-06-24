@@ -21,8 +21,8 @@ In this game, there are over 30 stages for players to get through, each stage ha
 
 There are some evil AI enemies who will try to hold you back, such as cannons which can track your movement and shoot you, magnetic balls which distract the path you are going along with, so, watch out! <br/> 
 
-Click [&lt;here&gt;](https://www.youtube.com/watch?v=d8o6gFppqro) to watch the trailer <br/>
-Click [&lt;here&gt;](https://play.google.com/store/apps/details?id=com.gameplus.rushingflash) to a try on Android (Some types of Android devices may have a few problems, we apologize for it).
+Click [here](https://www.youtube.com/watch?v=d8o6gFppqro) to watch the trailer <br/>
+Click [here](https://play.google.com/store/apps/details?id=com.gameplus.rushingflash) to a try on Android (Some types of Android devices may have a few problems, we apologize for it).
 
 
 
