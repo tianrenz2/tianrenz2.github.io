@@ -10,7 +10,7 @@ permalink: /project/
 
 <br/>
 
-Teammate: &lt;Ziliver Yuan&gt(http://ziliver.com)
+Teammate: [Ziliver Yuan](http://ziliver.com)
 
 Product Description:</br>
 This is 3D mobile game that can be runing on both Adroid and IOS.<br/>
