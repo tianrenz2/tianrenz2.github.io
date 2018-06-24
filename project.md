@@ -10,6 +10,8 @@ permalink: /project/
 
 <br/>
 
+Teammate: [&lt;Ziliver Yuan&gt;](http://ziliver.com)
+
 Product Description:</br>
 This is 3D mobile game that can be runing on both Adroid and IOS.<br/>
 By rotating devices, players are able to move the ball to the destination in order to win games.
