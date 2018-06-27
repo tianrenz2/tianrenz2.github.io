@@ -6,7 +6,8 @@ permalink: /about/
 
 My name is Tianren, I also go by Silver, I am a  Computer Engineering junior student in UC Irvine. 
 
-I study computer, but I don't enjoy writing programs, instead, I enjoy writing beautiful poems with programming languages.-- Silver
+
+<!-- font: frutiger -->I study computer, but I don't enjoy writing programs, instead, I enjoy writing beautiful poems with programming languages.-- Silver
 
 ### __Interests:__
   &nbsp;&nbsp;Internet of Things + Machine Learning
