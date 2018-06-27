@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-My name is Tianren, I also go by Silver, I am a  Computer Engineering junior student in UC Irvine. Programming and music are the biggest two parts of my life.
+My name is Tianren, I also go by Silver, I am a  Computer Engineering junior student in UC Irvine. 
+
+I study computer, but I don't write programs, instead, I write poems with programming languages.
 
 ### __Interests:__
   &nbsp;&nbsp;Internet of Things + Machine Learning
