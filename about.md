@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Hola ~! Como estas! I'm Silver, my Chinese name is Tianren, , I am a  Computer Engineering junior student in UC Irvine. 
+Hola! Como estas! I'm Silver, my Chinese name is Tianren, , I am a  Computer Engineering junior student in UC Irvine. 
 
-Born: October, 1997<br/>
-Networth: unknown<br/>
-Education: University of California, Irvine<br/>
+Born October, 1997<br/>
+Networth unknown<br/>
+Education University of California, Irvine<br/>
 
 <!-- font: frutiger -->I study computer, but I don't enjoy writing programs, instead, I enjoy writing beautiful poems with programming languages.-- Silver
 
