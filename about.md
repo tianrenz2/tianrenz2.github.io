@@ -12,9 +12,6 @@ Education University of California, Irvine<br/>
 
 <!-- font: frutiger -->I study computer, but I don't enjoy writing programs, instead, I enjoy writing beautiful poems with programming languages.-- Silver
 
-### __Interests:__
-  &nbsp;&nbsp;Internet of Things + Machine Learning
-
 <br/>
 
 
