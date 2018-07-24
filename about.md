@@ -34,7 +34,7 @@ Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 
 <br/>
 <br/>
-### __Campus Life:__
+## __Campus Life:__
 
 <img src="/images/band.jpg">  <br/>
 
