@@ -18,13 +18,6 @@ This is a total [architecture](https://docs.google.com/presentation/d/19MRqXKBIJ
 
 This is the [source code](https://github.com/tianrenz2/PixelLocker) of current version.
 
-
-<img src="/images/cprsk.jpeg">  <br/>
-
-<br/>
-
-Source code:  <a href = "https://github.com/tianrenz2/CPR-Sidekick">  https://github.com/tianrenz2/CPR-Sidekick<a/>
-
 <br/>
 
 ## __2. BIPI BALL 3D Mobile Game__
