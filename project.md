@@ -8,9 +8,9 @@ permalink: /project/
 
 Project Description: Today, people's copyrights for digital artworks cannot be protected easily because internet resources are actually controlled by small group of people and there is not really a consensus for the copyright of each artwork.
 
-Now with the Blockchain technology, people's work can be permanently recorded, although admittedly the Blockchain technology has not been developed as well as centralized mode regarding to scalibility and security etc, it is a right direction and thought to really deal with intellectual property in such a way.
+Now with the Blockchain technology, people's work can be permanently recorded, although admittedly the Blockchain technology has not been developed as well as centralized mode regarding to scalibility and security etc, it is a right direction and thought to really deal with intellectual properties in such a way.
 
-The platform I am developing is for photographers to sell their works by auction, this is totally decentralized, no one has the control of copyrights of photographers including me, transactions are made through smart contracts deployed on blockchain. 
+The platform I am developing is for photographers to sell their works by auction, this is totally decentralized, no one has the control of copyrights of photographers including me, transactions are made through smart contracts deployed on blockchain, the history of a photograph is transparent to everyone so that duplicates and frauds can be effectively prevented. 
 
 The project is built on Ethereum and all the transactions are made with "Ether".
 
