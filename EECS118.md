@@ -8,7 +8,8 @@ permalink: /EECS118/
 Click [here](https://github.com/tianrenz2/EECS118/tree/master/Mini%20Project%201) to see more details.
 
 # __Mini Project 2__:
-Click [here](https://github.com/tianrenz2/EECS118/tree/master/Mini%20Project%202) to see more details.
+Click [here](https://youtu.be/21JDG3WeS_4) to watch the video demo.
+Click [here](https://github.com/tianrenz2/EECS118/tree/master/Mini%20Project%202) to see the source code.
 
 # __Term Project: A Geometry Solver__
 
