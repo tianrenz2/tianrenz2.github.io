@@ -17,7 +17,7 @@ The project is built on Ethereum and all the transactions are made with "Ether".
 
 ### __Used Tools:__<br/>
 <br/>
-<img width = "100" src="/images/projects/eth.png"><img width = "100" src="/images/projects/ipfs.png"><img width = "100" src="/images/projects/metamask.png"><img width = "100" src="/images/projects/truffle.png"><img width = "100" src="/images/projects/reactjs.png"> 
+<img width = "100" src="/images/projects/eth.png"><img width = "100" src="/images/projects/ipfs.png"><img width = "100" src="/images/projects/metamask.png"><img width = "100" src="/images/projects/truffle.png"><img height = "100" src="/images/projects/reactjs.png"> 
 <br/>
 This is a total [architecture](https://docs.google.com/presentation/d/19MRqXKBIJgkNtPEzNndTDYfzJyc-muFbBWpeh3jfSnc/edit?usp=sharing) of this platform about how it works.
 
@@ -69,10 +69,6 @@ Android Source code: <a href = "https://github.com/tianrenz2/Notemoment-Android"
 Server and Web Source code: <a href = "https://github.com/tianrenz2/Notemoment--servercode">  https://github.com/tianrenz2/Notemoment--servercode <a/>  <br/>
  
  <br/>
-<br/>
-<br/>
-
-
 
 ## __4. CPR Sidekick__   <br/>
 
