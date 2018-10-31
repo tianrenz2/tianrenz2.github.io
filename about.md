@@ -13,14 +13,14 @@ Hola! I'm Silver, my Chinese name is Tianren, I am a  Computer Engineering senio
 
 ## Experience
 
-<img src="/images/oit-wordmark.png">  <br/>
+<img width="300" src="/images/oit-wordmark.png">  <br/>
 
 Part-time Job: Student Assistant at UCI Information of Technology Department  [July 2017 - Now]
 
 <br/>
 <br/>
 
-<img width="200" src="/images/codespeaklab.jpg">  <br/>
+<img width="300" src="/images/codespeaklab.jpg">  <br/>
 
 Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December 2017]
 
@@ -28,7 +28,7 @@ Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December
 <br/>
 
 
-<img src="/images/qiadao.jpg">  <br/>
+<img width="300" src="/images/qiadao.jpg">  <br/>
 Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 
 
