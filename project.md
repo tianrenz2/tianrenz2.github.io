@@ -61,7 +61,7 @@ It is a note sharing/trading platform on which students basically can get access
   <img width = "200" src="/images/scr1.jpeg"> <img width = "200" src="/images/scr2.jpeg"><img width = "200" src="/images/scr3.jpeg"> 
 <br/>
 ### __Used Tool:__
-<img height = "100" src="/images/projects/aws.png"> <img height = "100" src="/images/projects/django.png"> <img height = "100" src="/images/projects/mysql.png"> <img height = "100" src="/images/projects/redis.png"> <img height = "100" src="/images/projects/jquery.gif"> 
+<img height = "100" src="/images/projects/aws.png"> <img height = "100" src="/images/projects/django.gif"> <img height = "100" src="/images/projects/mysql.png"> <img height = "100" src="/images/projects/redis.png"> <img height = "100" src="/images/projects/jquery.gif"> 
 <br/>
 <br/>
 Platform: Website, Android, IOS
