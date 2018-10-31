@@ -34,6 +34,15 @@ Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 
 <br/>
 <br/>
+
+## __Hackathons:__
+### __2018 UCSD Hackathon__:<br/>
+<img width="200" src="/images/aboutme/sdhack1.jpg">  <br/>
+Click [here](https://devpost.com/software/starlight-3nhx1d) to see my VR project!
+<br/>
+### __2018 UCI Blockathon__:<br/>
+<img width="200" src="/images/aboutme/blockathon.jpg"  <br/>
+
 ## __Campus Life:__
 
 <img src="/images/band.jpg">  <br/>
