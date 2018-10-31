@@ -18,7 +18,7 @@ The project is built on Ethereum and all the transactions are made with "Ether".
 ### __Used Tools:__<br/>
 <br/>
 <img width = "100" src="/images/projects/eth.png"><img width = "100" src="/images/projects/ipfs.png"><img width = "100" src="/images/projects/metamask.png"><img width = "100" src="/images/projects/truffle.png"><img width = "100" src="/images/projects/reactjs.png"> 
-
+<br/>
 This is a total [architecture](https://docs.google.com/presentation/d/19MRqXKBIJgkNtPEzNndTDYfzJyc-muFbBWpeh3jfSnc/edit?usp=sharing) of this platform about how it works.
 
 This is the [source code](https://github.com/tianrenz2/PixelLocker) of current version.
