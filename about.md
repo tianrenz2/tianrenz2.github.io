@@ -38,10 +38,16 @@ Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 ## __Hackathons:__
 ### __2018 UCSD Hackathon__:<br/>
 <img width="200" src="/images/aboutme/sdhack1.jpg">  <br/>
+<br/>
+Prize: Best Neural Gaming Prize by PoNG<br/>
 Click [here](https://devpost.com/software/starlight-3nhx1d) to see my VR project!
 <br/>
+
+
 ### __2018 UCI Blockathon__:<br/>
 <img width="300" src="/images/aboutme/blockathon.jpg">  <br/>
+<br/>
+Prize: The Pirst Place
 
 ## __Campus Life:__
 
