@@ -41,7 +41,7 @@ Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 Click [here](https://devpost.com/software/starlight-3nhx1d) to see my VR project!
 <br/>
 ### __2018 UCI Blockathon__:<br/>
-<img width="200" src="/images/aboutme/blockathon.jpg"  <br/>
+<img width="200" src="/images/aboutme/blockathon.jpg">  <br/>
 
 ## __Campus Life:__
 
