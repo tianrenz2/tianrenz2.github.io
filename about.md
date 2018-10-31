@@ -20,7 +20,7 @@ Part-time Job: Student Assistant at UCI Information of Technology Department  [J
 <br/>
 <br/>
 
-<img src="/images/codespeaklab.jpg">  <br/>
+<img width="200" src="/images/codespeaklab.jpg">  <br/>
 
 Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December 2017]
 
