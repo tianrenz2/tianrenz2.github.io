@@ -6,7 +6,7 @@ permalink: /about/
 
 Hola! I'm Silver, my Chinese name is Tianren, I am a  Computer Engineering senior student in UC Irvine. 
 
-<!-- font: frutiger -->I study computer, but I don't enjoy writing programs, instead, I enjoy writing beautiful poems with programming languages.-- Silver
+<!-- font: frutiger -->I study computer, but I don't enjoy writing programs, instead, I enjoy writing beautiful poems with code. -- Silver
 
 <br/>
 
