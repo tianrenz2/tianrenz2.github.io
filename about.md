@@ -20,7 +20,7 @@ Part-time Job: Student Assistant at UCI Information of Technology Department  [J
 <br/>
 <br/>
 
-<img width="300" src="/images/codespeaklab.jpg">  <br/>
+<img width="250" src="/images/codespeaklab.jpg">  <br/>
 
 Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December 2017]
 
@@ -28,7 +28,7 @@ Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December
 <br/>
 
 
-<img width="300" src="/images/qiadao.jpg">  <br/>
+<img width="200" src="/images/qiadao.jpg">  <br/>
 Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
 
 
