@@ -48,7 +48,7 @@ Click [here](https://devpost.com/software/starlight-3nhx1d) to see my VR project
 
 ## __Campus Life:__
 
-<img src="/images/band.jpg">  <br/>
+<img width="300" src="/images/band.jpg">  <br/>
 
 <br/>
 <br/>
