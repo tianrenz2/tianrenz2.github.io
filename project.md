@@ -41,6 +41,9 @@ By rotating devices, players are able to move the ball to the destination in ord
 In this game, there are over 30 stages for players to get through, each stage has elaborately designed sceneries and interesting mechanisms. <br/>
 
 There are some evil AI enemies who will try to hold you back, such as cannons which can track your movement and shoot you, magnetic balls which distract the path you are going along with, so, watch out! <br/> 
+<br/>
+Powered by:<br/>
+<img height = "150" src="/images/projects/unreal.png">
 
 Click [here](https://www.youtube.com/watch?v=d8o6gFppqro) to watch the trailer <br/>
 Click [here](https://play.google.com/store/apps/details?id=com.gameplus.rushingflash) to a try on Android (Some types of Android devices may have a few problems, we apologize for it).
@@ -56,7 +59,10 @@ It is a note sharing/trading platform on which students basically can get access
 <img height = "200" src="/images/applogo1.png"> 
 
   <img width = "200" src="/images/scr1.jpeg"> <img width = "200" src="/images/scr2.jpeg"><img width = "200" src="/images/scr3.jpeg"> 
-
+<br/>
+### __Used Tool:__
+<img height = "100" src="/images/projects/aws.png"> <img height = "100" src="/images/projects/django.png"> <img height = "100" src="/images/projects/mysql.png"> <img height = "100" src="/images/projects/redis.png"> <img height = "100" src="/images/projects/jquery.png"> 
+<br/>
 <br/>
 Platform: Website, Android, IOS
 Android Source code: <a href = "https://github.com/tianrenz2/Notemoment-Android"> https://github.com/tianrenz2/Notemoment-Android<a/>  <br/>
