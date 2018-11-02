@@ -6,7 +6,7 @@ permalink: /EECS118/
 
 ## __Listen to some Music__:
 <audio controls="controls">
-  <source type="audio/mp3" src="images/Reptilia.mp3"></source>
+  <source type="audio/mp3" src="/images/Reptilia.mp3"></source>
 </audio>
 
 # __Mini Project 1__:
