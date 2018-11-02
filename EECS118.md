@@ -25,7 +25,9 @@ A [proposal](https://docs.google.com/document/d/1V8SPcFPg6eyj8idUQ9XdE9WonhJW-OK
   1. Users can set, add points and line segments;
   2. Users can get position of points and length of line segments;
   3. Users can calculate angles using lines and points.<br/>
-
+  
+  Click [here](https://github.com/tianrenz2/EECS118/tree/master/Term%20Project) to see the source code.
+ 
   Test Cases: <br/>
   ![alt text](https://github.com/tianrenz2/tianrenz2.github.io/blob/master/images/geometrysol/week5.png?raw=true)
  <br/>
