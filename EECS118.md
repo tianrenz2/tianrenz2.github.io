@@ -21,6 +21,14 @@ A [proposal](https://docs.google.com/document/d/1V8SPcFPg6eyj8idUQ9XdE9WonhJW-OK
 
 ## __Week 5__
 
+### __Progress:__
+  1. Users can set, add points and line segments;
+  2. Users can get position of points and length of line segments;
+  3. Users can calculate angles using lines and points.<br/>
+
+  Test Cases: <br/>
+  ![alt text](https://github.com/tianrenz2/tianrenz2.github.io/blob/master/images/geometrysol/week5.png?raw=true)
+ <br/>
 ## __Week 6__
 
 ## __Week 7__
