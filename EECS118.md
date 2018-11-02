@@ -3,6 +3,9 @@ layout: page
 title: EECS 118 Updates
 permalink: /EECS118/
 ---
+<audio controls="controls">
+  <source type="audio/mp3" src="images/Reptilia.mp3"></source>
+</audio>
 
 # __Mini Project 1__:
 Click [here](https://github.com/tianrenz2/EECS118/tree/master/Mini%20Project%201) to see more details.
