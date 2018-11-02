@@ -4,11 +4,6 @@ title: EECS 118 Updates
 permalink: /EECS118/
 ---
 
-## __Listen to some Music__:
-<audio controls="controls">
-  <source type="audio/mp3" src="/images/Reptilia.mp3"></source>
-</audio>
-
 # __Mini Project 1__:
 Click [here](https://github.com/tianrenz2/EECS118/tree/master/Mini%20Project%201) to see more details.
 
@@ -27,6 +22,11 @@ The problem graphs:<br/>
 ![alt text](https://github.com/tianrenz2/EECS118/blob/master/Term%20Project/graph2.png?raw=true)
 
 ## __Week 5__
+
+## __Listen to some Music__:
+<audio controls="controls">
+  <source type="audio/mp3" src="/images/Reptilia.mp3"></source>
+</audio>
 
 ### __Progress:__
   1. Users can set, add points and line segments;
