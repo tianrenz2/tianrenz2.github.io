@@ -34,6 +34,9 @@ The problem graphs:<br/>
   ![alt text](https://github.com/tianrenz2/tianrenz2.github.io/blob/master/images/geometrysol/week5.png?raw=true)
  <br/>
 ## __Week 6__
+  1. Took the midterm, so hard... :<
+  2. Click [here](https://tianrenz2.github.io/others/term_paper_darft.html) to view the Preliminary Idea for the Term Paper.
+  
 
 ## __Week 7__
 
