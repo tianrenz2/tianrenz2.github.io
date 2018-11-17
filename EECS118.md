@@ -39,7 +39,8 @@ The problem graphs:<br/>
   
 
 ## __Week 7__
-
+  Click [here](https://youtu.be/PdKqwkGAGWg) to view the Video for Term Project progress.
+  
 ## __Week 8__
 
 ## __Week 9__
