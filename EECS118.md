@@ -42,7 +42,8 @@ The problem graphs:<br/>
   Click [here](https://youtu.be/PdKqwkGAGWg) to view the Video for Term Project progress.
   
 ## __Week 8__
-
+  Click [here](https://youtu.be/6B8m6vtbbWk) to watch the video of my week 8 milestone.
+  
 ## __Week 9__
 
 ## __Week 10__
