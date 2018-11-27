@@ -42,6 +42,9 @@ The problem graphs:<br/>
   Click [here](https://youtu.be/PdKqwkGAGWg) to view the Video for Term Project progress.
   
 ## __Week 8__
+  Progress:
+  1. The program is able to solve basic geometric problems of the triangle and circle using geomtric theorems.
+  2. The program is able to check the validity for inputs.
   Click [here](https://youtu.be/6B8m6vtbbWk) to watch the video of my week 8 milestone.
   
 ## __Week 9__
