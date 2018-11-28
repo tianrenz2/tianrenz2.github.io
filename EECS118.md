@@ -43,8 +43,8 @@ The problem graphs:<br/>
   
 ## __Week 8__
   Progress:
-  1. The program is able to solve basic geometric problems of the triangle and circle using geomtric theorems.</br>
-  2. The program is able to check the validity for inputs.</br>
+  1. The program is able to solve basic geometric problems of the triangle and circle using geomtric theorems.<br/>
+  2. The program is able to check the validity for inputs.<br/>
   Click [here](https://youtu.be/6B8m6vtbbWk) to watch the video of my week 8 milestone.
   
 ## __Week 9__
