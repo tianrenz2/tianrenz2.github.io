@@ -48,6 +48,8 @@ The problem graphs:<br/>
   Click [here](https://youtu.be/6B8m6vtbbWk) to watch the video of my week 8 milestone.
   
 ## __Week 9__
+  Progress:
+  1. Click [here](https://youtu.be/jlbDueDtl0o) to watch the video demonstration of my finished term project.
 
 ## __Week 10__
 Get an "A"
