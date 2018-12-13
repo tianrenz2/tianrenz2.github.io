@@ -49,7 +49,7 @@ The problem graphs:<br/>
   
 ## __Week 9__
   Progress:
-  1. Click [here](https://youtu.be/jlbDueDtl0o) to watch the video demonstration of my finished term project.
+  1. Click [here](https://www.youtube.com/watch?v=zGjK3_Nj5o0) to watch the video demonstration of my finished term project.
 
 ## __Week 10__
   1. [Term Paper Pitch Slides](https://drive.google.com/open?id=1E8328uuSSDkUnDALkB7ZncYiCQFO62ohz4VUqjE17JU)
