@@ -55,7 +55,7 @@ permalink: /privacy/
 <p><strong>Security</strong></p>
 <p>We value your trust in providing us your Personal Information, thus we are striving to use
     commercially acceptable means of protecting it. But remember that no method of transmission over
-    the internet, or method of electronic storage is 100% secure and reliable, and [I|we] cannot
+    the internet, or method of electronic storage is 100% secure and reliable, and we cannot
     guarantee its absolute security.</p>
 
 <p><strong>Links to Other Sites</strong></p>
@@ -66,19 +66,19 @@ permalink: /privacy/
     sites or services.</p>
 
 <p><strong>Children’s Privacy</strong></p>
-<p>This Service does not address anyone under the age of 13. [I|We] do not knowingly collect personal
-    identifiable information from children under 13. In the case [I|we] discover that a child under 13
-    has provided [me|us] with personal information, [I|we] immediately delete this from our servers. If you
+<p>This Service does not address anyone under the age of 13. We do not knowingly collect personal
+    identifiable information from children under 13. In the case we discover that a child under 13
+    has provided us with personal information, we immediately delete this from our servers. If you
     are a parent or guardian and you are aware that your child has provided us with personal
-    information, please contact [me|us] so that [I|we] will be able to do necessary actions.</p>
+    information, please contact us so that we will be able to do necessary actions.</p>
 
 <p><strong>Changes to This Privacy Policy</strong></p>
-<p>[I|We] may update our Privacy Policy from time to time. Thus, you are advised to review this page
+<p>We may update our Privacy Policy from time to time. Thus, you are advised to review this page
     periodically for any changes. We will notify you of any changes by posting the new Privacy Policy
     on this page. These changes are effective immediately, after they are posted on this page.</p>
 
 <p><strong>Contact Us</strong></p>
-<p>If you have any questions or suggestions about [my|our] Privacy Policy, do not hesitate to contact
+<p>If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact
     us.</p>
 <p>This Privacy Policy page was created at <a href="https://privacypolicytemplate.net"
                                               target="_blank">privacypolicytemplate.net</a>.</p>
