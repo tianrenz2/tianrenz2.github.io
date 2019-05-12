@@ -4,6 +4,15 @@ title: Projects
 permalink: /project/
 ---
 
+
+## __Special: Star Gazing __   <br/>
+
+Star Gazing is a free and fun mobile game made with Unity, it is available on both Google play and App store RIGHT NOW!
+<img width = "200" src="/images/projects/cover3.png">
+
+[Android Download](https://play.google.com/store/apps/details?id=com.stargazers.stargazing)<br/>
+[IOS Download](https://itunes.apple.com/app/id1458238463)<br/>
+
 ## __1. Pixel Locker: A Decentralized Photography Auction Platform__   <br/>
 
 ### __Project Description:__
