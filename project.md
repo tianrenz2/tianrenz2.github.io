@@ -7,7 +7,7 @@ permalink: /project/
 
 ## __Special: Star Gazing__   <br/>
 
-Star Gazing is a free and fun mobile game made with Unity, it is available on both Google play and App store RIGHT NOW!<br/>
+Star Gazing is a free and fun mobile game made with Unity, it is available on both Google play and App store RIGHT NOW!<br/><br/>
 <img width = "800" src="/images/projects/cover3.png">
 
 [Official Trailer](https://www.youtube.com/watch?v=V9QbJzTtR64)<br/>
