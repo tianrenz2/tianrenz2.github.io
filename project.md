@@ -7,7 +7,7 @@ permalink: /project/
 
 ## __Special A Mobile Game: Star Gazing (Chinese Name: 星云穿梭)__   <br/>
 Star Gazing is a free and fun mobile game made with Unity, it is available on both Google play and App store RIGHT NOW!<br/><br/>
-I started this project with some friends at UCI when we were attending the Global Game Jam 2019. We initially made a sample of this game just for that event, but as we realize this game is actually pretty fun and there could be a lot to extend, we started keep polishing it and finally we published the game on App Store, Google Play and Taptap. <br/>
+I started this project with some friends at UCI when we were attending the Global Game Jam 2019. We initially made a sample of this game just for that event, but as we realized this game was actually pretty fun and there could be a lot to extend, we started keep polishing it and finally we published the game on App Store, Google Play and Taptap. <br/>
 
 <img width = "800" src="/images/projects/cover3.png">
 
