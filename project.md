@@ -13,7 +13,7 @@ Star Gazing is a free and fun mobile game made with Unity, it is available on bo
 [Official Trailer](https://www.youtube.com/watch?v=V9QbJzTtR64)<br/>
 [Taptap](https://www.taptap.com/app/166820)<br/>
 [Android Download on Google Play](https://play.google.com/store/apps/details?id=com.stargazers.stargazing)<br/>
-[IOS Download](https://itunes.apple.com/app/id1458238463)<br/><br/>
+[IOS Download](https://itunes.apple.com/app/id1458238463)<br/>
 
 PS: the links provided above are the only official download sources, I noticed there are a lot of websites providing apk files of this game without our permission, just do not download from those websites.
 
