@@ -18,7 +18,7 @@ Things I love: cryptocurrency, databases, music.
 
 Software Engineer at SmartX [July 2019 - Now]
 
-SmartX[https://www.smartx.com/global/] is a leading Hyperconverged Infrastructure(HCI) Company in China, where 996 (a stereotype of Chinese Internet companies) does not exist and people who work here are really really nice and passionate to technologies! What is HCI? Google it lol, the most famous American HCI companies you probably have heard of are Nutanix, NetApp. 
+[SmartX](https://www.smartx.com/global/) is a leading Hyperconverged Infrastructure(HCI) Company in China, where 996 (a stereotype of Chinese Internet companies) does not exist and people who work here are really really nice and passionate to technologies! What is HCI? Google it lol, the most famous American HCI companies you probably have heard of are Nutanix, NetApp. 
 
 In SmartX, I have been working in the Distributed System Management Team called Tuna. We are building up a system that takes care of the clusters and automates a lot of operations for the clusters. 
 <br/>
