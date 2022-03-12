@@ -9,12 +9,14 @@ permalink: /project/
 Star Gazing is a free and fun mobile game made with Unity, it is available on both Google play and App store RIGHT NOW!<br/><br/>
 I started this project with some friends at UCI when we were attending the Global Game Jam 2019. We initially made a sample of this game just for that event, but as we realized this game was actually pretty fun and there could be a lot to extend, we started keep polishing it and finally we published the game on App Store, Google Play and Taptap. <br/>
 
+Team: Star Gazer Studio (Team of 6).
+My Jobs: Game development, Game Release.
+Tools Used: Unity.
+
 <img width = "800" src="/images/projects/cover3.png">
 
-[Official Trailer](https://www.youtube.com/watch?v=V9QbJzTtR64)<br/>
+[Official Trailer](https://www.youtube.com/watch?v=fkOCEUMp3TE)<br/>
 [Taptap](https://www.taptap.com/app/166820)<br/>
-[Android Download on Google Play](https://play.google.com/store/apps/details?id=com.stargazers.stargazing)<br/>
-[IOS Download](https://itunes.apple.com/app/id1458238463)<br/>
 
 PS: the links provided above are the only official download sources, I noticed there are a lot of websites providing apk files of this game without our permission, just do not download from those websites.
 
@@ -29,13 +31,16 @@ The platform I am developing is for photographers to sell their works by auction
 
 The project is built on Ethereum and all the transactions are made with "Ether".
 
+Team: myself.
+Award: UCI 2018 Blockchain Hackathon, the first place award.
+
 ### __Used Tools:__<br/>
 <br/>
 <img width = "100" src="/images/projects/eth.png"><img width = "100" src="/images/projects/ipfs.png"><img width = "100" src="/images/projects/metamask.png"><img width = "100" src="/images/projects/truffle.png"><img height = "100" src="/images/projects/reactjs.png"> 
 <br/>
-This is a total [architecture](https://docs.google.com/presentation/d/19MRqXKBIJgkNtPEzNndTDYfzJyc-muFbBWpeh3jfSnc/edit?usp=sharing) of this platform about how it works.
+This is a [detailed introduction](https://docs.google.com/presentation/d/10CZdAOfa7sjzoXxSEP1CFFP6jVZUqPp2rg_DIskIESo/edit?usp=sharing) about this project. <br/>
 
-This is the [source code](https://github.com/tianrenz2/PixelLocker) of current version.
+This is the [source code](https://github.com/tianrenz2/PixelLocker) of a demo version.
 
 <br/>
 
@@ -56,13 +61,11 @@ In this game, there are over 30 stages for players to get through, each stage ha
 
 There are some evil AI enemies who will try to hold you back, such as cannons which can track your movement and shoot you, magnetic balls which distract the path you are going along with, so, watch out! <br/> 
 <br/>
-Powered by:<br/>
+Powered by Unreal Engine 4<br/>
 <img height = "150" src="/images/projects/unreal.jpg">
 
 Click [here](https://www.youtube.com/watch?v=d8o6gFppqro) to watch the trailer <br/>
-Click [here](https://play.google.com/store/apps/details?id=com.gameplus.rushingflash) to a try on Android (Some types of Android devices may have a few problems, we apologize for it).
-
-
+<br/>
 
 ## __3. NoteMoment__   <br/>
 It is a note sharing/trading platform on which students basically can get access to class notes or post their notes with 3 following modes:<br/>
@@ -98,4 +101,19 @@ Source code:  <a href = "https://github.com/tianrenz2/CPR-Sidekick">  https://gi
 
 <br/>
 
-  
+
+## __5. Smart Mirror with Raspberry Pi__ <br />
+
+See the details [here](https://tianrenz2.github.io/Smart-Mirror/).
+
+<br/>
+
+## __6. QEMU Live Upgrade__ <br />
+
+See the details [here](https://tianrenz2.github.io/liveUpgradeQemu/).
+
+<br/>
+
+## __7. Contributed Projects__ <br />
+
+Alluxio (A distributed data orchestration system): [2 PRs](https://github.com/Alluxio/alluxio/pulls?q=tianrenz2)

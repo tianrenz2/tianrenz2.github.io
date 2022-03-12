@@ -4,11 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hola! I'm Silver, my Chinese name is Tianren, I am a  Computer Engineering senior student in UC Irvine. 
-
-Things I love: cryptocurrency, databases, music.
-
-<!-- font: frutiger -->I study computer, but I don't write programs, I write poems with code. -- Silver
+Hola! I'm Silver, my Chinese name is Tianren. 
 
 <br/>
 
@@ -18,9 +14,9 @@ Things I love: cryptocurrency, databases, music.
 
 Software Engineer at SmartX [July 2019 - Now]
 
-[SmartX](https://www.smartx.com/global/) is a leading Hyperconverged Infrastructure(HCI) Company in China, where 996 (a stereotype of Chinese Internet companies) does not exist and people who work here are really really nice and passionate to technologies! What is HCI? Google it lol, the most famous American HCI companies you probably have heard of are Nutanix, NetApp. 
+[SmartX](https://www.smartx.com/global/) is a leading Hyperconverged Infrastructure(HCI) Company.
 
-In SmartX, I have been working in the Distributed System Management Team called Tuna. We are building up a system that takes care of the clusters and automates a lot of operations for the clusters. 
+In SmartX, I have been working on its self-developed enterprise virtualization platform [ELF](https://www.smartx.com/global/smtx-os/). 
 <br/>
 <br/>
 
@@ -38,36 +34,8 @@ Part-time Job: Programming teacher at Codespeak Lab   [September 2017 - December
 <br/>
 <br/>
 
-
-<img width="200" src="/images/qiadao.jpg">  <br/>
-Intern: Android Developer at Qiadao Inc.  [February 2015 - June 2015]
-
-
-<br/>
-<br/>
-
-## __Hackathons:__
-### __2018 UCSD Hackathon__:<br/>
-<img width="200" src="/images/aboutme/sdhack1.jpg">  <br/>
-#### _Prize: Best Neural Gaming Prize by PoNG_ <br/>
-Click [here](https://devpost.com/software/starlight-3nhx1d) to see my VR project!
-<br/>
-
-### __2018 UCI Blockathon__:<br/>
-<img width="300" src="/images/aboutme/blockathon.jpg">  <br/>
-#### _Prize: The Pirst Place_
-
-## __Campus Life:__
-
-<img width="300" src="/images/band.jpg">  <br/>
-
-<br/>
-<br/>
-
-
-
 ### Contact me
 
-[tianrenz@uci.edu]
+[silvertianren@gmail.com]
 
 
