@@ -4,7 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Hola! I'm Silver, my Chinese name is Tianren. 
+Hola! I'm Silver, my Chinese name is Tianren. I'm interested in virtualization, distributed computing :)
+
+
+Here is my [video channel](https://space.bilibili.com/1497221372) on Bilibili explaining cloud technologies. Check it out.
 
 <br/>
 
