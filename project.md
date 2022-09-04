@@ -4,8 +4,11 @@ title: Projects
 permalink: /project/
 ---
 
-## __Special: Cloud Explained Series
-A video series on Bilibili explaining cloud technologies (now focusing on virtualization). 
+## __Special: Cloud Explained Series__ <br/>
+A video series on Bilibili explaining cloud technologies (now focusing on virtualization technology). 
+
+<img width = "800" src="/images/projects/cloud-explain.png">
+
 Click [here](https://space.bilibili.com/1497221372) to check out!
 
 
