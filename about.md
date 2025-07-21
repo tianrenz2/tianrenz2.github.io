@@ -25,7 +25,7 @@ In SmartX, I have been working on its self-developed enterprise virtualization p
 
 <img width="300" src="/images/oit-wordmark.png">  <br/>
 
-Part-time Job: Student Assistant at UCI Information of Technology Department  [July 2017 - Now]
+Part-time Job: Student Assistant at UCI Information of Technology Department  [July 2017 - June 2019]
 
 <br/>
 <br/>
