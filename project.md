@@ -5,7 +5,9 @@ permalink: /project/
 ---
 
 ## __KRR: Efficient and Scalable Kernel Record Replay__ <br/>
-Built an efficient record and replay tool for kernel, the paper was published on __OSDI 2025__ ([link](https://www.usenix.org/conference/osdi25/presentation/zhang-tianren)).
+Built an efficient record and replay tool for kernel, the paper was published on __OSDI 2025__ ([link](https://www.usenix.org/conference/osdi25/presentation/zhang-tianren), [code repos](https://github.com/orgs/krr-io/repositories)).
+
+Source code repos: 
 
 ### __Used Tools:__<br/>
 <img width = "200" src="/images/projects/qemu.png"><img width = "100" src="/images/projects/kvm.png">
